@@ -1,4 +1,4 @@
-# REST API Demo 01
+# PokeTwo
 
 ### Using Vue and Tailwind via CDN
 

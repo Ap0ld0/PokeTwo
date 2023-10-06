@@ -1,8 +1,8 @@
-# PokeTwo
+# PokemonTwo
 
 ### Using Vue and Tailwind via CDN
 
-Pokétwo brings the Pokémon experience to Discord. Catch randomly-spawning pokémon in your servers, trade them to expand your collection, battle with your friends to win rewards, and more. All free to play and open source.
+Pokemon Two Catch randomly-spawning pokémon in your servers, trade them to expand your collection, battle with your friends to win rewards, and more. All free to play and open source.
 
 ### Tailwind
 ```
